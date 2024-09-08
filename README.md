@@ -77,3 +77,11 @@ Una vez que la interfaz se cargue correctamente, estarás listo para imprimir. A
 - Después de estos movimientos, el cabezal se posicionará en el centro de la cama de impresión.
 
 **Importante**: No intentes mover el cabezal o la cama manualmente mientras los motores paso a paso estén activos, ya que esto podría desalinear la impresora.
+
+Voy a añadir más información aquí en breve, por ejemplo, cómo realmente tomar un modelo e imprimirlo, y actualizar mi configuración que he guardado de cuando yo estaba usando la impresora.
+
+Voy a tener más información aquí en unos pocos días, pero si no lo hago y ya está listo para imprimir, por favor póngase en contacto conmigo y me aseguraré de que usted está cuidado :)
+
+¡Buena suerte y diviértete!
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
