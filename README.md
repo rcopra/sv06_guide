@@ -24,7 +24,7 @@
 
 - Verás una pantalla de configuración como esta:
 
-![raspi-config](.pics/raspi-config.png)
+![raspi-config](pics/raspi-config.png)
 
 - Navega a `System Options -> Wireless LAN`, e introduce la información de tu red WiFi.
 
@@ -47,7 +47,7 @@
 
   - **Importante**: Debería haber cinta aislante en el lado USB A (la parte que se conecta a la Raspberry Pi). Esto es para evitar que la impresora suministre corriente a la Pi. Si falta la cinta, sigue [esta guía](https://github.com/bassamanator/everything-sovol-sv06/blob/main/howto.md#disable-usb-cable-5v-pin) para solucionarlo.
 
-  ![sv06-controller-box](.pics/sv06_controller_box.jpg)
+  ![sv06-controller-box](pics/sv06_controller_box.jpg)
 
 ### 2. Encender la Impresora
 
@@ -59,7 +59,7 @@
 
 Deberías ver una interfaz web como esta:
 
-![mainsail_example](.pics/mainsail_example.png)
+![mainsail_example](pics/mainsail_example.png)
 
 ---
 
